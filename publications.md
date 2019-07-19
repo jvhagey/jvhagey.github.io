@@ -1,6 +1,5 @@
 ---
 title: Publications
-layout: categories
 ---
 
 ## June 2019  
