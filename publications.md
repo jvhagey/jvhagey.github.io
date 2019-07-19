@@ -1,8 +1,6 @@
 ---
 title: Publications
 layout: categories
-excerpt: "Category index"
-aside: true
 ---
 
 ## June 2019  
