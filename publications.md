@@ -1,6 +1,7 @@
 ---
 title: Publications
 feature_image: "/assets/Eugene_smaller.jpg"
+aside: true
 ---
 
 ## June 2019  
