@@ -5,7 +5,7 @@ excerpt: "Category index"
 aside: true
 ---
 
-# June 2019
+## June 2019  
 - **Fecal Microbial Communities in a Large Representative Cohort of California Dairy Cows**  
 Citation: **Hagey J V**., Bhatnagar S, Heguy JM, Karle BM, Price PL, Meyer D, et al. Fecal Microbial Communities in a Large Representative Cohort of California Dairy Cows. Front Microbiol. 2019;10: 1–14. doi:10.3389/fmicb.2019.01093 
 
