@@ -15,7 +15,7 @@ I am currently a PhD candidate at the University of California, Davis in the ani
 {% include button.html text="GitHub" icon="github" link="https://github.com/jvhagey" color="#0366d6" %} {% include button.html text="Tweet @ Me" icon="twitter" link="https://twitter.com/JillHagey" color="#33333" %} {% include button.html text="Research gate" link="https://www.researchgate.net/profile/Jill_Hagey2" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=b3QakQEAAAAJ&hl=en" color="D52EE1" %}
 
 ## Projects
-1. [Fecal Microbiome of Dairy Cattle](https://github.com/jvhagey/CDRF-CA_Dairy_Fecal_Microbiome) and the [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01093/full).
+1. Fecal Microbiome of Dairy Cattle [github page](https://github.com/jvhagey/CDRF-CA_Dairy_Fecal_Microbiome) and the [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01093/full).
 2. Utility scripts I have written that I use for a varity of projects are found [here](https://github.com/jvhagey/Utility_Scripts).
 
 ### Things I think are cool
