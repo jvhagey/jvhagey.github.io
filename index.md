@@ -12,6 +12,10 @@ excerpt: "This is the home page of Jill Hagey's github"
                                                 
 I am currently a PhD candidate at the University of California, Davis in the animal biology graduate group. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This is a new page so still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
 
+<center>
+Email: jvhagey@gmail.com
+</center>
+
 {% include button.html text="GitHub" icon="github" link="https://github.com/jvhagey" color="#0366d6" %} {% include button.html text="Tweet @ Me" icon="twitter" link="https://twitter.com/JillHagey" color="#33333" %} {% include button.html text="Research gate" link="https://www.researchgate.net/profile/Jill_Hagey2" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=b3QakQEAAAAJ&hl=en" color="D52EE1" %}
 
 ## Projects
