@@ -1,1 +1,1 @@
-# Check out the home page [here](jvhagey.github.io)
+# Check out the home page [here](http://jvhagey.github.io)
