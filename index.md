@@ -33,7 +33,8 @@ Email: jvhagey@gmail.com
 
 ### Helpful workflows
 - [16s workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
-- [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
+- [Happy Belly Bioinformatics](https://astrobiomike.github.io/)  
+- [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)
 
 ### Stats Resources
 - [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
