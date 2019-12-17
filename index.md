@@ -32,10 +32,11 @@ Email: jvhagey@gmail.com
 - [Bioinformatics Chat podcast](https://bioinformatics.chat/)
 
 ### Helpful workflows
-- [16s workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
+- [16s workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)  
 - [Happy Belly Bioinformatics](https://astrobiomike.github.io/)  
-- [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)
+- [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)  
 
 ### Stats Resources
-- [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
-- [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
+- [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)  
+- [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)  
+- [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
