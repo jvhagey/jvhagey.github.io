@@ -40,3 +40,4 @@ Email: jvhagey@gmail.com
 - [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
+- 
