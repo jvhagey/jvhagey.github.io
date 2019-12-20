@@ -8,6 +8,7 @@
 # 7. Site settings
 # 8. Site favicons & manifest icons
 # 9. Site navigation
+# 10. Set 
 
 # 1. Files excluded from Jekyll builds
 exclude:
@@ -35,6 +36,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-org
+- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -139,3 +141,7 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
+  
+# 10. Set theme
+remote_theme: daviddarnes/alembic
+
