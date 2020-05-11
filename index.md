@@ -29,9 +29,10 @@ Email: jvhagey@gmail.com
 3. Utility scripts I have written that I use for a varity of projects are found [here](https://github.com/jvhagey/Utility_Scripts).
 
 ### Things I think are cool
-- [Bioinformatics Chat podcast](https://bioinformatics.chat/)
+- [Bioinformatics Chat podcast](https://bioinformatics.chat/) 
+- [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/)
 
-### Helpful workflows
+### Helpful Workflows
 - [16s workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
 - [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
 - [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)
@@ -40,4 +41,3 @@ Email: jvhagey@gmail.com
 - [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
-- 
