@@ -1,5 +1,5 @@
 ---
-title: Jill V Hagey, MS
+title: Dr. Jill V Hagey, MS, PhD
 feature_text: |
 ## Animal Scientist - Bioinformatician - Bacteria Engineer
 feature_image: "/assets/Eugene_smaller.jpg"
@@ -10,7 +10,9 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
                                                 
-I am currently a PhD candidate at the University of California, Davis in the animal biology graduate group. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This is a new page so still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
+I am currently an APHL Bioinformatics fellow in the Waterborne Disease Prevention Branch at the Centers for Disease Control and Prevention. 
+
+I got my PhD at the University of California, Davis in the Animal Biology Graduate Group with a designated emphasis in Host-Microbe Interactions. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This is a new page so still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
 
 <center>
 Email: jvhagey@gmail.com
