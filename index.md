@@ -36,8 +36,8 @@ Email: jvhagey@gmail.com
 
 ### Helpful Workflows
 - [16S rRNA gene amplicon workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
-- [Statistical Methods in Microbiome Research Workshop](http://web.stanford.edu/class/bios221/Pune/index.html#schedule_(all_5_days_follow_this_structure)
-- [Happy Belly Bioinformatics](https://astrobiomike.github.io/))
+- [Statistical Methods in Microbiome Research Workshop](http://web.stanford.edu/class/bios221/Pune/index.html#schedule_(all_5_days_follow_this_structure))
+- [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
 - [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)
 
 ### Stats Resources
