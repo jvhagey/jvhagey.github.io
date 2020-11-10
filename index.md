@@ -2,7 +2,7 @@
 title: Dr. Jill V Hagey, MS, PhD
 feature_text: |
 ## Animal Scientist - Bioinformatician - Bacteria Engineer
-feature_image: "/assets/Eugene_smaller.jpg"
+feature_image: "/assets/IMG-3698.jpg"
 excerpt: "This is the home page of Jill Hagey's github"
 ---
 
