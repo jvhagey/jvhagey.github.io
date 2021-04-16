@@ -33,6 +33,12 @@ Email: jvhagey@gmail.com
 ### Things I think are cool
 - [Bioinformatics Chat podcast](https://bioinformatics.chat/) 
 - [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/)
+- [Micro Binfie (Microbial Bioinformatics) Podcast](https://podcasts.apple.com/au/podcast/micro-binfie-podcast/id1479852809)
+
+### Public Health and Bioinformatics Links
+- [Public Health Bioinformatics](https://github.com/Public-Health-Bioinformatics)
+- [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://github.com/PHA4GE)
+- [StaPH-B (State Public Health Bioinformatics Workgroup)[http://www.staphb.org/] and their (Github)[https://github.com/StaPH-B]
 
 ### Helpful Workflows
 - [16S rRNA gene amplicon workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
