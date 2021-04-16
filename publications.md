@@ -1,6 +1,6 @@
 ---
 title: Publications
-feature_image: "/assets/Eugene_smaller.jpg"
+feature_image: "/assets/IMG-3432.jpg"
 aside: true
 ---
 
