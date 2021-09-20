@@ -21,7 +21,7 @@ Survey of Microbial Fecal Populations Across California Dairies.
 
 Lysozyme transgenic goat milk regulates expression of peptioglycan recognition protein 3 and 4.
 
-[Keystone Poster [PDF]](http://jvhagey.github.io/files/Keystone_PGLYRP_poster_final.pdf)  
+[Keystone Poster [PDF]](http://jvhagey.github.io/files/Keystone%20_PGLYRP_poster_final.pdf)  
 
 ### Transgenic Animal Research Conference 2015  
 
