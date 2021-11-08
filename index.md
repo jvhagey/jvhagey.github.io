@@ -56,5 +56,9 @@ Email: jvhagey@gmail.com
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
 
+### Machine Learning
+- [Resource Lists](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
+- [Examples](https://bradleyboehmke.github.io/HOML/pca.html) and page with [code](https://koalaverse.github.io/homlr/notebooks/17-pca.nb.html).
+
 ### Bioinformatic Resources
 - [Calculating Mapping Statistics from a SAM/BAM file using SAMtools and awk](https://sarahpenir.github.io/bioinformatics/awk/calculating-mapping-stats-from-a-bam-file-using-samtools-and-awk/)
