@@ -35,6 +35,10 @@ Email: jvhagey@gmail.com
   - [Evalution of failure of passive transfer rates in calves either bottle or tube fed colostrum](doi:10.2460/javma.241.1.104)  
 4. Utility scripts I have written that I use for a varity of projects are found [here](https://github.com/jvhagey/Utility_Scripts).
 
+## Select Public Github Repositories I have Contributed To
+- [Containers for the Waterborne Diseases Prevention Branch at CDC](https://github.com/CDCgov/WDPB_CDS_PHL_Tools).
+- Technical Outreach and Assistance for States Team (TOAST) developed [benchmark datasets for SARS-CoV-2 sequencing](https://github.com/CDCgov/datasets-sars-cov-2).
+
 ### Things I think are cool
 - [Bioinformatics Chat podcast](https://bioinformatics.chat/) 
 - [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/)
