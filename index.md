@@ -10,7 +10,7 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
                                                 
-I am currently an APHL Bioinformatics fellow in the Waterborne Disease Prevention Branch at the Centers for Disease Control and Prevention. 
+I am currently Bioinformatian in the Division of Healthcare Quality Promotion at the Centers for Disease Control and Prevention. 
 
 I got my PhD at the University of California, Davis in the Animal Biology Graduate Group with a designated emphasis in Host-Microbe Interactions. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This page is still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
 
@@ -25,7 +25,7 @@ Email: jvhagey@gmail.com
 {% include button.html text="GitHub" icon="github" link="https://github.com/jvhagey" color="#0366d6" %} {% include button.html text="Tweet @ Me" icon="twitter" link="https://twitter.com/JillHagey" color="#33333" %} {% include button.html text="Research gate" link="https://www.researchgate.net/profile/Jill_Hagey2" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=b3QakQEAAAAJ&hl=en" color="D52EE1" %}
 
 ## Projects
-1. Rumen Sampling Methods Bias Bacterial Communities Observed [github page](https://github.com/jvhagey/Depeters_RumenSampling_2018) and [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461352v1).
+1. Rumen Sampling Methods Bias Bacterial Communities Observed [github page](https://github.com/jvhagey/Depeters_RumenSampling_2018) and [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258176).
 2. Fecal Microbiome of Dairy Cattle [github page](https://github.com/jvhagey/CDRF-CA_Dairy_Fecal_Microbiome) and the [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01093/full).  
 3. Projects studying passive immunity in dairy calves:  
   - [Determining how serum IgG is related to mortality in the first 4 months of life in dairy heifers](http://doi.org/10.1017/S0022029915000503)  
@@ -36,6 +36,8 @@ Email: jvhagey@gmail.com
 4. Utility scripts I have written that I use for a varity of projects are found [here](https://github.com/jvhagey/Utility_Scripts).
 
 ## Select Public Github Repositories I have Contributed To
+- [🔥🐦🔥PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens](https://github.com/CDCgov/phoenix)
+- [nf-core modules](https://github.com/nf-core/modules/tree/88a9a55c808372c122e3ee71269bf03e3aa8466a/modules/srst2/srst2)
 - [Containers for the Waterborne Diseases Prevention Branch at CDC](https://github.com/CDCgov/WDPB_CDS_PHL_Tools).
 - Technical Outreach and Assistance for States Team (TOAST) developed [benchmark datasets for SARS-CoV-2 sequencing](https://github.com/CDCgov/datasets-sars-cov-2).
 
