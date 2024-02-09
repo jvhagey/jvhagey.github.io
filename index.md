@@ -10,7 +10,7 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
                                                 
-I am currently Bioinformatian in the Division of Healthcare Quality Promotion at the Centers for Disease Control and Prevention. 
+Currently, I am a Bioinformatian in the Division of Healthcare Quality Promotion at the Centers for Disease Control and Prevention, where I am the bioinformatic domestic lead for the [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html). My team writes software, like [PHoeNIx](https://github.com/CDCgov/phoenix), to detect Antibiotic Resistance in Hospitial Associated Infections.
 
 I got my PhD at the University of California, Davis in the Animal Biology Graduate Group with a designated emphasis in Host-Microbe Interactions. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This page is still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
 
