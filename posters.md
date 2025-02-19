@@ -20,7 +20,7 @@ Identification of Microbes Involved in Nitrogen Fixation in Dairy Cow Manure on 
 
 Prevalence of Nitrogen Fixation Genes in Dairy Cow Manure Across California   
 
-[ISME Poster [PDF]](http://jvhagey.github.io/files/Dairy Metagenome v3_Final.pdf)
+[ISME Poster [PDF]](http://jvhagey.github.io/files/Dairy_Metagenome_v3_Final.pdf)
 
 ### Animal Biology Graduate Group Colloquium 2016  
 
