@@ -8,7 +8,7 @@ aside: true
 
 🔥🐦🔥 PHoeNIx: Platform-Agnostic Bioinformatic Pipeline for Strengthening CDC’s Antimicrobial Resistance Laboratory Network
  
-[ASM NGS [PDF]](http://jvhagey.github.io/files/ASM_NGS_2024.pptx)
+[ASM NGS [PDF]](http://jvhagey.github.io/files/ASM_NGS_2024.pdf)
 
 ### Congress on Gastrointestinal Function 2019
 *Links will be added after publication*  
