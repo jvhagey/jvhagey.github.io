@@ -8,24 +8,30 @@ aside: true
 
 🔥🐦🔥 PHoeNIx: Platform-Agnostic Bioinformatic Pipeline for Strengthening CDC’s Antimicrobial Resistance Laboratory Network
  
-[ASM NGS [PDF]](http://jvhagey.github.io/files/ASM_NGS_2024.pdf)
+[ASM NGS Poster [PDF]](http://jvhagey.github.io/files/ASM_NGS_2024.pdf)
 
 ### Congress on Gastrointestinal Function 2019
-*Links will be added after publication*  
+
+Identification of Microbes Involved in Nitrogen Fixation in Dairy Cow Manure on Farms Across California
+
+[Congress on GI Function Poster [PDF]](http://jvhagey.github.io/files/Jill_Hagey_2019_A.pdf)
 
 ### International Society of Microbial Ecology (ISME) 2018
-*Links will be added after publication*  
+
+Prevalence of Nitrogen Fixation Genes in Dairy Cow Manure Across California   
+
+[ISME Poster [PDF]](http://jvhagey.github.io/files/Dairy Metagenome v3_Final.pdf)
 
 ### Animal Biology Graduate Group Colloquium 2016  
 
-Survey of Microbial Fecal Populations Across California Dairies.  
+Survey of Microbial Fecal Populations Across California Dairies  
 
 [ABGG Poster [PDF]](http://jvhagey.github.io/files/Dairy_Microbiome_v2.pdf)  
 
 ### Keystone Symposia Conference 2016  
 #### Gut Microbiota Modulation of Host Physiology: The Search for Mechanism  
 
-Lysozyme transgenic goat milk regulates expression of peptioglycan recognition protein 3 and 4.
+Lysozyme transgenic goat milk regulates expression of peptioglycan recognition protein 3 and 4  
 
 [Keystone Poster [PDF]](http://jvhagey.github.io/files/Keystone%20_PGLYRP_poster_final.pdf)  
 
