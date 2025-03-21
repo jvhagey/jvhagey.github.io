@@ -10,9 +10,17 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
                                                 
-Currently, I am a Bioinformatician in the Division of Healthcare Quality Promotion at the Centers for Disease Control and Prevention, where I am the bioinformatic domestic lead for the [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html). My team writes software, like [PHoeNIx](https://github.com/CDCgov/phoenix), to detect Antibiotic Resistance in Hospitial Associated Infections.
+Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.
 
-I got my PhD at the University of California, Davis in the Animal Biology Graduate Group with a designated emphasis in Host-Microbe Interactions. I am passionate about making "big data" in biology comprehensible and pretty. This home page will link you to my github projects. This page is still under construction 👷, but no hard hat needed. I currently write most of my work in python and R. Drop me a line if you find an error or have questions!
+Dr. Hagey serves as the Bioinformatics Domestic Lead for the CDC’s [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html), providing technical expertise, capacity-building support, and strategic guidance to public health jurisdictions. I has a proven track record of translating complex genomic data into actionable insights, collaborating across disciplines to modernize bioinformatic infrastructure, and mentoring scientists in bioinformatics and data science.
+
+Expertise includes:
+✔ Pipeline Development – Skilled in Nextflow, Snakemake, WDL, and cloud-based bioinformatics workflows (AWS, Terra.bio).
+✔ Data Science & Machine Learning – Proficient in Python, R, and statistical modeling for microbial population analysis.
+✔ Public Health & AMR Surveillance – Experienced in developing bioinformatics solutions for outbreak detection and genomic epidemiology.
+✔ Technical Communication & Training – Recognized for effectively communicating complex concepts to diverse audiences, from lab personnel to leadership teams.
+
+I am passionate about leveraging bioinformatics to enhance global public health surveillance, combat antimicrobial resistance, and modernize genomic data workflows.
 
 
 Check out my [tutorials page](https://jvhagey.github.io/Tutorials/mydoc_Setup.html)!
