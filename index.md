@@ -9,6 +9,8 @@ excerpt: "This is the home page of Jill Hagey's github"
 <center>
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
+
+<h5>
                                                 
 Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.  
 
@@ -22,8 +24,9 @@ Expertise includes:
 
 I am passionate about leveraging bioinformatics to enhance global public health surveillance, combat antimicrobial resistance, and modernize genomic data workflows.
 
-
 Check out my [tutorials page](https://jvhagey.github.io/Tutorials/mydoc_Setup.html)!
+
+</h5>
 
   
 <center>
@@ -43,36 +46,37 @@ Email: jvhagey@gmail.com
   - [Evalution of failure of passive transfer rates in calves either bottle or tube fed colostrum](doi:10.2460/javma.241.1.104)  
 4. Utility scripts I have written that I use for a varity of projects are found [here](https://github.com/jvhagey/Utility_Scripts).
 
-## Select Public Github Repositories I have Contributed To
+## Select Public Github Repositories I have Contributed To:
 - [🔥🐦🔥PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens](https://github.com/CDCgov/phoenix)
 - [nf-core modules](https://github.com/nf-core/modules/tree/88a9a55c808372c122e3ee71269bf03e3aa8466a/modules/srst2/srst2)
 - [Containers for the Waterborne Diseases Prevention Branch at CDC](https://github.com/CDCgov/WDPB_CDS_PHL_Tools).
 - Technical Outreach and Assistance for States Team (TOAST) developed [benchmark datasets for SARS-CoV-2 sequencing](https://github.com/CDCgov/datasets-sars-cov-2).
 
-### Things I think are cool
+### Cool Things:
 - [Bioinformatics Chat podcast](https://bioinformatics.chat/) 
 - [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/)
 - [Micro Binfie (Microbial Bioinformatics) Podcast](https://podcasts.apple.com/au/podcast/micro-binfie-podcast/id1479852809)
 
-### Public Health and Bioinformatics Links
+### Public Health and Bioinformatics Resources:
 - [Public Health Bioinformatics](https://github.com/Public-Health-Bioinformatics)
 - [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://github.com/PHA4GE)
 - [StaPH-B (State Public Health Bioinformatics Workgroup](http://www.staphb.org/) and their [Github](https://github.com/StaPH-B)
 
-### Helpful Workflows
+### Helpful Workflows:
 - [16S rRNA gene amplicon workflow from Holmes Lab](https://www.bioconductor.org/help/course-materials/2017/BioC2017/Day1/Workshops/Microbiome/MicrobiomeWorkflowII.html#different_ordination_projections)
 - [Statistical Methods in Microbiome Research Workshop](http://web.stanford.edu/class/bios221/Pune/index.html#schedule_(all_5_days_follow_this_structure))
 - [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
 - [Statistical Diversity Lab blog: Microbiome data analysis 101](http://statisticaldiversitylab.com/blog/167093)
 
-### Stats Resources
+### Stats Resources:
 - [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
 
-### Machine Learning
+### Machine Learning Resources:
+<h5>
 - [Resource Lists](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
 - [Examples](https://bradleyboehmke.github.io/HOML/pca.html) and page with [code](https://koalaverse.github.io/homlr/notebooks/17-pca.nb.html).
 
-### Bioinformatic Resources
+### Bioinformatic Resources:
 - [Calculating Mapping Statistics from a SAM/BAM file using SAMtools and awk](https://sarahpenir.github.io/bioinformatics/awk/calculating-mapping-stats-from-a-bam-file-using-samtools-and-awk/)
