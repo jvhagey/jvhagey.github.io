@@ -10,15 +10,15 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
                                                 
-Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.
+Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.  
 
-Dr. Hagey serves as the Bioinformatics Domestic Lead for the CDC’s [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html), providing technical expertise, capacity-building support, and strategic guidance to public health jurisdictions. I has a proven track record of translating complex genomic data into actionable insights, collaborating across disciplines to modernize bioinformatic infrastructure, and mentoring scientists in bioinformatics and data science.
+Dr. Hagey serves as the Bioinformatics Domestic Lead for the CDC’s [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html), providing technical expertise, capacity-building support, and strategic guidance to public health jurisdictions. I has a proven track record of translating complex genomic data into actionable insights, collaborating across disciplines to modernize bioinformatic infrastructure, and mentoring scientists in bioinformatics and data science.  
 
-Expertise includes:
-✔ Pipeline Development – Skilled in Nextflow, Snakemake, WDL, and cloud-based bioinformatics workflows (AWS, Terra.bio).
-✔ Data Science & Machine Learning – Proficient in Python, R, and statistical modeling for microbial population analysis.
-✔ Public Health & AMR Surveillance – Experienced in developing bioinformatics solutions for outbreak detection and genomic epidemiology.
-✔ Technical Communication & Training – Recognized for effectively communicating complex concepts to diverse audiences, from lab personnel to leadership teams.
+Expertise includes:  
+✔ Pipeline Development – Skilled in Nextflow, Snakemake, WDL, and cloud-based bioinformatics workflows (AWS, Terra.bio).  
+✔ Data Science & Machine Learning – Proficient in Python, R, and statistical modeling for microbial population analysis.  
+✔ Public Health & AMR Surveillance – Experienced in developing bioinformatics solutions for outbreak detection and genomic epidemiology.  
+✔ Technical Communication & Training – Recognized for effectively communicating complex concepts to diverse audiences, from lab personnel to leadership teams.  
 
 I am passionate about leveraging bioinformatics to enhance global public health surveillance, combat antimicrobial resistance, and modernize genomic data workflows.
 
@@ -30,7 +30,7 @@ Check out my [tutorials page](https://jvhagey.github.io/Tutorials/mydoc_Setup.ht
 Email: jvhagey@gmail.com
 </center>
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/jvhagey" color="#0366d6" %} {% include button.html text="Tweet @ Me" icon="twitter" link="https://twitter.com/JillHagey" color="#33333" %} {% include button.html text="Research gate" link="https://www.researchgate.net/profile/Jill_Hagey2" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=b3QakQEAAAAJ&hl=en" color="D52EE1" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/jvhagey" color="#0366d6" %} {% include button.html text="LinkedIn" icon="linkedin" link="[https://twitter.com/JillHagey](https://www.linkedin.com/in/jillhagey/)" color="#33333" %} {% include button.html text="Research gate" link="https://www.researchgate.net/profile/Jill_Hagey2" color="#0d94e7" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=b3QakQEAAAAJ&hl=en" color="D52EE1" %}
 
 ## Projects
 1. Rumen Sampling Methods Bias Bacterial Communities Observed [github page](https://github.com/jvhagey/Depeters_RumenSampling_2018) and [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258176).
