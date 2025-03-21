@@ -10,7 +10,7 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
 
-<h5>
+<p style="font-size: 12px;">
                                                 
 Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.  
 
@@ -26,7 +26,7 @@ I am passionate about leveraging bioinformatics to enhance global public health 
 
 Check out my [tutorials page](https://jvhagey.github.io/Tutorials/mydoc_Setup.html)!
 
-</h5>
+</p>
 
   
 <center>
