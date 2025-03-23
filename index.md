@@ -10,8 +10,7 @@ excerpt: "This is the home page of Jill Hagey's github"
 🐄 💩 🧬 💻 🐍 + 🇷 = 📊
 </center>
 
-<span style="font-size: 12px;">
-                                                
+                                               
 Dr. Jill V. Hagey is a bioinformatics expert specializing in antimicrobial resistance (AMR), microbial genomics, and pipeline development for public health surveillance. With a PhD in Animal Biology and extensive experience in bioinformatics, I have successfully developed and deployed bioinformatic pipelines, including [PHoeNIx](https://github.com/CDCgov/phoenix), a widely used workflow for genomic surveillance of antibiotic-resistant pathogens.  
 
 Dr. Hagey serves as the Bioinformatics Domestic Lead for the CDC’s [Antimicrobial Resistance Labortory Network](https://www.cdc.gov/drugresistance/laboratories.html), providing technical expertise, capacity-building support, and strategic guidance to public health jurisdictions. I has a proven track record of translating complex genomic data into actionable insights, collaborating across disciplines to modernize bioinformatic infrastructure, and mentoring scientists in bioinformatics and data science.  
@@ -25,8 +24,6 @@ Expertise includes:
 I am passionate about leveraging bioinformatics to enhance global public health surveillance, combat antimicrobial resistance, and modernize genomic data workflows.
 
 Check out my [tutorials page](https://jvhagey.github.io/Tutorials/mydoc_Setup.html)!
-
-</span>
 
   
 <center>
@@ -74,7 +71,6 @@ Email: jvhagey@gmail.com
 - [Biomedical Data Science Text](http://genomicsclass.github.io/book/)
 
 ### Machine Learning Resources:
-<h5>
 - [Resource Lists](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/README.md#machine-learning)
 - [Examples](https://bradleyboehmke.github.io/HOML/pca.html) and page with [code](https://koalaverse.github.io/homlr/notebooks/17-pca.nb.html).
 
